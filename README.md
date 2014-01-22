@@ -1,3 +1,1 @@
-## Description
-
-This app lets you import your photos from your Mac into the iOS Simulator.
+从本地导入照片到iPhone模拟器
